@@ -1,5 +1,5 @@
 import math
-# First example
+
 def add(a, b):
     return a+b
 
